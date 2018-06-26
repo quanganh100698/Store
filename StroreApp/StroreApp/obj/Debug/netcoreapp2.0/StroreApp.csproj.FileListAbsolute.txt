@@ -1,0 +1,4 @@
+C:\Users\Admin\RiderProjects\StroreApp\StroreApp\obj\Debug\netcoreapp2.0\StroreApp.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\StroreApp\StroreApp\obj\Debug\netcoreapp2.0\StroreApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\StroreApp\StroreApp\obj\Debug\netcoreapp2.0\StroreApp.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\StroreApp\StroreApp\obj\Debug\netcoreapp2.0\StroreApp.AssemblyInfo.cs
